@@ -1,0 +1,13 @@
+.body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+.head {
+    color: aqua;
+}
+.third-div {
+    border: 1px solid;
+}
+#feedback {
+    margin: 10px;
+}
